@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title>Turtles Sri Lanka</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        
+        <div class="banner">
+            <center>
+            <div class="navbar">
+                <!--<img src="logo.jpg" class="logo">-->
+                <ul> 
+                    <li><a href="#">CATEGORIES</a></li>
+                    <li><a href="#">HIKKADUWA<br> HATCHERIES</a></li>
+                    <li><a href="#">THREATS</a></li>
+                    <li><a href="#">OTHER<br> HATCHERIES</a></li>
+                    <li><a href="#">PURCHASE </a></li>
+                    
+                </ul>
+            </div>
+        </center>
+
+            <div class="content">
+                <h1>TURTLES</h1>
+                <p>Turtles are reptiles that have been around for more than 220 million years,<br> making them one of the oldest reptile groups. They are fascinating creatures with unique characteristics,<br> such as their protective shell and ability to retract their heads and limbs into their shells for protection.<br>
+
+                    Turtles can be found in various environments such as oceans, rivers, lakes, and even deserts.<br> There are over 350 species of turtles, with the largest being the leatherback sea turtle,<br> which can grow up to 7 feet in length and weigh over 2,000 pounds.<br>
+                    
+                    Turtles play an important role in their ecosystem as they help to control populations of certain aquatic<br> plants and animals.They also provide a source of food for many predators, such as birds and other reptiles.<br>
+                    
+                    Unfortunately, many species of turtles are endangered due to human activities such as habitat destruction,<br> overhunting, and pollution. Conservation efforts are crucial to protect these incredible animals<br> and ensure their survival for future generations.</p>
+                <div>
+                    <button type="button">SEE MORE</button>
+                    <button type="button">DONATE</button>
+                </div>
+                    
+                    
+                    
+                
+
+            </div>
+
+        </div>
+    </body>
+</html>
